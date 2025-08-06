@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# Build directory
+/build/
+nbbuild/
+dist/
+
+# NetBeans project files (optional to ignore .nbproject)
+nbproject/private/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Ant build files (optional if you want to exclude them)
+# build.xml
+
+# Ignore test reports and coverage
+/test-output/
+*.ser
+
+# IDE-specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignore lib jars (optional if you re-download via build tools)
+# lib/*.jar
+
+# Output directories
+/out/
+target/
